@@ -1,12 +1,13 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:3fb950&height=190&section=header&text=STACK&fontSize=68&fontColor=0d1117&fontAlignY=38&desc=Time-Reversal%20%26%20Context-Suspension%20Engine&descAlignY=60&descSize=18" alt="Stack banner" width="100%"/>
-![GATE](https://img.shields.io/badge/GATE-CSE%202027-3fb950?style=for-the-badge&labelColor=0d1117)
-![Topic](https://img.shields.io/badge/DATA%20STRUCTURES-STACK-00e5ff?style=for-the-badge&labelColor=0d1117)
-![Push/Pop](https://img.shields.io/badge/PUSH%20%2F%20POP-%CE%98(1)-a371f7?style=for-the-badge&labelColor=0d1117)
-![Order](https://img.shields.io/badge/ORDER-LIFO-f85149?style=for-the-badge&labelColor=0d1117)
-![Mode](https://img.shields.io/badge/MODE-EXAM%20TRAPS%20ARMED-d29922?style=for-the-badge&labelColor=0d1117)
-
-</div>
+<h1 align="center">🧱 STACK</h1>
+ 
+<p align="center"><b>The Time-Reversal &amp; Context-Suspension Engine</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GATE-CSE%202027-3fb950?style=for-the-badge&labelColor=0d1117" alt="GATE CSE 2027">
+  <img src="https://img.shields.io/badge/DATA%20STRUCTURES-STACK-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Data Structures">
+  <img src="https://img.shields.io/badge/PUSH%20%2F%20POP-%CE%98(1)-a371f7?style=for-the-badge&labelColor=0d1117" alt="Push/Pop Theta(1)">
+  <img src="https://img.shields.io/badge/ORDER-LIFO-f85149?style=for-the-badge&labelColor=0d1117" alt="LIFO">
+  <img src="https://img.shields.io/badge/MODE-EXAM%20TRAPS%20ARMED-d29922?style=for-the-badge&labelColor=0d1117" alt="Exam traps armed">
+</p>
 ```diff
   root@gate-cse:~/data-structures# ./stack --explain
 + [  OK  ] LIFO core ................ online
