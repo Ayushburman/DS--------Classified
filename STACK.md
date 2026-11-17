@@ -1,4 +1,4 @@
-stac
+
 s
 t
 a
