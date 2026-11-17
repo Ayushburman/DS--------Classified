@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/ORDER-LIFO-f85149?style=for-the-badge&labelColor=0d1117" alt="LIFO">
   <img src="https://img.shields.io/badge/MODE-EXAM%20TRAPS%20ARMED-d29922?style=for-the-badge&labelColor=0d1117" alt="Exam traps armed">
 </p>
+
 ```diff
   root@gate-cse:~/data-structures# ./stack --explain
 + [  OK  ] LIFO core ................ online
