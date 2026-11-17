@@ -5,7 +5,7 @@
 ![Push/Pop](https://img.shields.io/badge/PUSH%20%2F%20POP-%CE%98(1)-a371f7?style=for-the-badge&labelColor=0d1117)
 ![Order](https://img.shields.io/badge/ORDER-LIFO-f85149?style=for-the-badge&labelColor=0d1117)
 ![Mode](https://img.shields.io/badge/MODE-EXAM%20TRAPS%20ARMED-d29922?style=for-the-badge&labelColor=0d1117)
- 
+
 </div>
 ```diff
   root@gate-cse:~/data-structures# ./stack --explain
